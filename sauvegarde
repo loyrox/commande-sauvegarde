@@ -1,0 +1,65 @@
+@echo off
+
+color a
+color d
+color a
+systeminfo
+color d
+color a
+color d
+color a
+color a
+color d
+color a
+color a
+color d
+color a
+echo --------------
+echo --
+echo sauvegarde de ficher reussi !!
+echo --
+echo -----------------
+color a
+color a
+color d
+color a
+color a
+color d
+color a
+color a
+color d
+color a
+color a
+color d
+color a
+color a
+color d
+color a
+pause > nul
+CLS
+tasklist
+color d
+color a
+color d
+color a
+color a
+color d
+color a
+color a
+color d
+color a
+color a
+color d
+color a
+color a
+color d
+color a
+color d
+color a
+echo ---------------
+echo --
+echo les fichiers on bien été enregistrer bien jouer
+echo -- appuie pour fermer 
+echo --------------
+pause > nul
+CLS
